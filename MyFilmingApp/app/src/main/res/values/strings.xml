@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">MyFilmingApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="inicio">Inicio</string>
+    <string name="lista">Películas</string>
+    <string name="listaSeries">Series</string>
+    <string name="tv_portada">¡Películas y series de calidad!</string>
+
+    <string name="castillo_titulo">Título:El castillo ambulante</string>
+    <string name="castillo_director">Director:Hayao Miyazaki</string>
+    <string name="castillo_reparto">Reparto:Mar Bordallo, Iván Muelas, Pilar Gentil, Teresa del Olmo...</string>
+    <string name="castillo_clasificacion">Clasificación:5/5</string>
+    <string name="castillo_sinopsis">Sinopsis:Narra la historia de Sophie, una joven sobre la que pesa una horrible maldición que le confiere el aspecto de una anciana. Sophie decide pedir ayuda al mago Howl, que vive en un castillo ambulante, pero tal vez sea Howl quien necesite la ayuda de Sophie. </string>
+
+    <string name="viaje_titulo">Título:El viaje de Chihiro</string>
+    <string name="viaje_director">Director:Hayao Miyazaki</string>
+    <string name="viaje_reparto">Reparto:Paula Ribó, Ángel de Gracia, Carmen Contreras...</string>
+    <string name="viaje_clasificacion">Clasificación:5/5</string>
+    <string name="viaje_sinopsis">Sinopsis:Chihiro es una niña de diez años que viaja en coche con sus padres. Después de atravesar un túnel, llegan a un mundo fantástico, en el que no hay lugar para los seres humanos, sólo para los dioses de primera y segunda clase. Cuando descubre que sus padres han sido convertidos en cerdos, Chihiro se siente muy sola y asustada.</string>
+
+    <string name="princesa_titulo">Título:La princesa Mononoke</string>
+    <string name="princesa_director">Director:Hayao Miyazaki</string>
+    <string name="princesa_reparto">Reparto:David Robles, Eva Díez, María Luisa Rubio, Pepa Castro...</string>
+    <string name="princesa_clasificacion">Clasificación:4/5</string>
+    <string name="princesa_sinopsis">Sinopsis:Con el fin de curar la herida que le ha causado un jabalí enloquecido, el joven Ashitaka sale en busca del dios Ciervo, pues sólo él puede liberarlo del sortilegio. A lo largo de su periplo descubre cómo los animales del bosque luchan contra hombres que están dispuestos a destruir la Naturaleza.</string>
+
+    <string name="porco_titulo">Título:Porco Rosso</string>
+    <string name="porco_director">Director:Hayao Miyazaki</string>
+    <string name="porco_reparto">Reparto:José Luis Sansalvador, Nuria Trifol, Silvia Vilarrasa...  </string>
+    <string name="porco_clasificacion">Clasificación:4/5</string>
+    <string name="porco_sinopsis">Sinopsis:Periodo de entreguerras. Porco es un cerdo aviador que frustra todos los actos de piratería perpetrados por los piratas aéreos del Adriático. Éstos, decididos a acabar con el valiente y hábil aviador, se ponen de acuerdo para contratar a un aventurero americano cuya misión será eliminarlo.</string>
+
+    <string name="nicky_titulo">Título:Nicky la aprendiz de bruja</string>
+    <string name="nicky_director">Director:Hayao Miyazaki</string>
+    <string name="nicky_reparto">Reparto:Cristina Yuste, Nacho Aldeguer, Iñaki Crespo... </string>
+    <string name="nicky_clasificacion">Clasificación:5/5</string>
+    <string name="nicky_sinopsis">Sinopsis:Nicky es una joven bruja de 13 años, en periodo de entrenamiento, que se divierte volando en su escoba junto a Jiji, un sabio gato negro. Según la tradición, todas las brujas de esa edad deben abandonar su hogar durante un año para saber valerse por sí mismas. Así, ella descubrirá lo que significa la responsabilidad, la independencia y la amistad.</string>
+
+    <string name="naruto_titulo">Título: Naruto</string>
+    <string name="naruto_director">Director: Hayato Date</string>
+    <string name="naruto_reparto">Reparto:Javier Balas, Adolfo Moreno, Pilar Martín...</string>
+    <string name="naruto_clasificacion">Clasificación:5/5</string>
+    <string name="naruto_temporadas">Temporadas:9 (terminada)</string>
+    <string name="naruto_sinopsis">Sinopsis:El protagonista es un joven aspirante a ninja Uzumaki Naruto, un muchacho que sueña en convertirse algun dia en el líder de su aldea. Será para él una tarea difícil ya que cuando era solo un bebé le fué confiado en su interior el poder de un ser malvado, que antaño causo grandes males en su aldea y el cual irá poco a poco descubriendo y dominando.</string>
+
+    <string name="aot_titulo">Título: Shingeki no Kyojin</string>
+    <string name="aot_director">Director: Tetsuro Araki, Masashi Koizuka, Yuichiro Hayashi</string>
+    <string name="aot_reparto">Reparto:Jaume Aguiló, Laura Prats, Marc Gómez... </string>
+    <string name="aot_clasificacion">Clasificación:5/5</string>
+    <string name="aot_temporadas">Temporadas:4</string>
+    <string name="aot_sinopsis">Serie basada en el manga del mismo nombre, dirigida por Tetsuro Araki y protagonizada por un grupo de residentes de una ciudad rodeada de murallas, las cuales sirven para proteger a la población de los ataques de gigantes caníbales, quienes de vez en cuando consiguen entrar en el lugar.</string>
+
+    <string name="demon_titulo">Título: Demon Slayer</string>
+    <string name="demon_director">Director: Haruo Sotozaki</string>
+    <string name="demon_reparto">Reparto:Iván Bastidas, José Luis Piedra, Uraz Huerta...</string>
+    <string name="demon_clasificacion">Clasificación:5/5</string>
+    <string name="demon_temporadas">Temporadas:2</string>
+    <string name="demon_sinopsis">Tanjirou Kamado es un chico inteligente y de buen corazón que vive con su familia y gana dinero vendiendo carbón. Todo cambia cuando su familia es atacada y asesinada menos hermana Nezuko, que fue convertida en demonio. Tanjirou se convierte en un asesino de demonios para ayudar a su hermana a volverse humana nuevamente y vengar la muerte de su familia.</string>
+
+    <string name="gintama_titulo">Título: Gintama</string>
+    <string name="gintama_director">Director: Shinji Takamatsu, Yōichi Fujita, 	Chizuru Miyawaki</string>
+    <string name="gintama_reparto">Reparto:Jesús Barrero, Hugo Rodríguez, Marisol Castro... </string>
+    <string name="gintama_clasificacion">Clasificación:5/5</string>
+    <string name="gintama_temporadas">Temporadas:5</string>
+    <string name="gintama_sinopsis">En una era donde los alienígenas han invadido y conquistado el Tokyo feudal, un joven samurai busca trabajo... como puede.</string>
+
+    <string name="jjs_titulo">Título: Jujutsu Kaisen</string>
+    <string name="jjs_director">Director: Park Sung-hoo</string>
+    <string name="jjs_reparto">Reparto:Enzo Fortuny, Víctor Ruiz, Ayari Rivera...</string>
+    <string name="jjs_clasificacion">Clasificación:5/5</string>
+    <string name="jjs_temporadas">Temporadas:1</string>
+    <string name="jjs_sinopsis">Yuji Itadori decide pasar el tiempo con el Club de Ocultismo del instituto, pese a poseer unas habilidades atléticas extraordinarias. Con el tiempo, descubre que el mundo del oculto es real, y los miembros del club son atacados.</string>
+
+
+</resources>
